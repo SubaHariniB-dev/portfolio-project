@@ -18,8 +18,8 @@ export const profile = {
   location: "Coimbatore, India",
   email: "kannanharini2005@gmail.com",
   phone: "+91 9894612560",
-  linkedin: "https://linkedin.com/in/karthikvarma",
-  github: "https://github.com/karthikvarma",
+  linkedin: "https://www.linkedin.com/in/suba-harini-b-a990712a5?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+  github: "https://github.com/SubaHariniB-dev",
   resumeUrl: resume,
   image: myprofile,
   roles: [
